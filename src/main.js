@@ -1,4 +1,4 @@
-import './style.css';
+import 'src/style.css';
 
 // Theme toggle logic
 const htmlEl = document.documentElement;

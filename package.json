@@ -1,0 +1,24 @@
+{
+  "name": "tar-portfolio",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "daisyui": "^4.12.10",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.19",
+    "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "@fontsource/mitr": "^5.2.8",
+    "@tailwindcss/postcss": "^4.1.18"
+  }
+}
